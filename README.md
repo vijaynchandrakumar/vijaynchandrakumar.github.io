@@ -12,7 +12,7 @@
 Now you can browse vijaychandrakumar.github.io to view your static html page
 
 ##To branch##
-1. create and checkout to a new branch using command - git checkout -b <yourBranchName>
+1. create and checkout to a new branch using command - `git checkout -b <yourBranchName>`
 2. Now make changes in your branch , save the changes <br>
     -> git add .<br>
     -> git commit -m "changes made on branch"<br>
